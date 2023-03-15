@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  list-style-type: none;
+  padding: 10px;
+  margin: 15px; 
+  width: 10em;
+}
+
+input{
+  height: 20px;
+  font-size: 14pt;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 500px;
+}
+
+li{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
